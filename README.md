@@ -1,2 +1,5 @@
 # Mountainous-Balatro-Mod
-Hi there, this is a dumb little balatro mod I made with mostly horror theming. Currently it has 50+ Jokers, a new mechanic similar to the flipside from entropy, 10 new enhancements, a new consumable set of 9 cards, and 10 more tarot cards. Hope you enjoy! :)
+Hi there, i assume you already read the description, so let me just cut to the chase here.
+Whilst this isnt a shitpost mod its not wholly horror, although often the mod does take itself seriously with its horror elements. 
+Also, there is a very very silly secret hidden in this mod, i hope you'll find it! :3 
+Now, good luck and have fun! :D
